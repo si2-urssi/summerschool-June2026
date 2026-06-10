@@ -32,7 +32,8 @@ Overnight accommodation will be in the [West Village B](https://www.canva.com/de
 | 9th, 10:30am-12pm  | work time |  | 
 | 9th, 12-1:30pm | Lunch | |
 | 9th, 1:30-2:30pm | [Peer code review](https://tyfolino.github.io/urssi-summer-2026/peer-review/) | | Ty
-| 9th, 2:30-3:30pm | work time | | 
+| 9th, 2:30-3:15pm | work time | | 
+| 9th, 2:15-3:25pm | Tracking Jupyter notebooks with git | [Markdown](https://github.com/si2-urssi/summerschool-June2026/blob/main/notebooks-in-git.md) [Powerpoint](https://raw.githubusercontent.com/si2-urssi/summerschool-June2026/refs/heads/main/notebooks-in-git.pptx) | Richard 
 | 9th, 3:30-5pm | Panel discussion on industry career paths | | [Kevin Spiekermann](https://www.linkedin.com/in/kspiekermann/), [Mengjie Liu](https://www.linkedin.com/in/liumengjie/), [Xiaorui Dong](https://www.linkedin.com/in/xiaorui-dong/), [Chao Xu](https://www.linkedin.com/in/chao-xu-xc12/)
 | 10th, 9-10:30am | [Documentation and versioning](https://si2-urssi.github.io/summerschool-June2026/documentation-and-versioning.slides.html#/) | | Su
 | 10th, 10:30am-12pm | work time | | 
